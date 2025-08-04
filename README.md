@@ -2,8 +2,6 @@
 
 This project implements a basic client-server file transfer system over TCP sockets using the C programming language. The client requests a file from the server, and the server responds by sending the file line-by-line using a simple custom packet structure.
 
-> Developed as part of a Computer Networks course project.
-
 ---
 
 ## 🔧 Features
