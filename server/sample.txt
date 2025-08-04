@@ -1,0 +1,4 @@
+Hello, this is a test file.
+Each line is meant to simulate
+a line being sent over TCP.
+The file ends right after this line.
